@@ -1,0 +1,5 @@
+authController
+    forgetpassword 
+    resetPasssword
+    updatePassword
+    
